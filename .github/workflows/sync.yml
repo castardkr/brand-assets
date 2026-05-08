@@ -40,4 +40,5 @@ jobs:
           author_name: github-actions[bot]
           author_email: github-actions[bot]@users.noreply.github.com
           message: "chore: Figma 에셋 동기화"
+          pull: '--rebase --autostash'
           push: true
