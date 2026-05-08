@@ -1,0 +1,11 @@
+{
+  "name": "upstage-brand-assets-sync",
+  "version": "1.0.0",
+  "description": "Figma → GitHub 브랜드 에셋 동기화 스크립트",
+  "scripts": {
+    "sync": "node scripts/sync.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
