@@ -20,7 +20,7 @@ const path = require('path');
 const TOKEN    = process.env.FIGMA_TOKEN;
 const FILE_KEY = process.env.FIGMA_FILE || 'V33vhvlkqMk79sixQJYU6X';
 const BASE_URL = 'https://api.figma.com/v1';
-const REPO_RAW = 'https://raw.githubusercontent.com/upstage-comm/brand-assets/main';
+const REPO_RAW = 'https://raw.githubusercontent.com/castardkr/brand-assets/main';
 
 if (!TOKEN) {
   console.error('❌  FIGMA_TOKEN 환경변수가 없습니다.');
