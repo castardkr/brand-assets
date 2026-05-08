@@ -38,7 +38,9 @@ jobs:
           if git diff --cached --quiet; then
             echo "변경 없음 — 커밋 생략"
           else
-            git commit -m "chore: Figma 에셋 동기화 $(date '+%Y-%m-%d')"
+            git restore --staged .
             git pull --rebase origin main
+            git add -A
+            git commit -m "chore: Figma 에셋 동기화 $(date '+%Y-%m-%d')"
             git push origin main
           fi
