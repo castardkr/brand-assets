@@ -1,7 +1,7 @@
 {
   "version": "2026-05-08",
   "figma_file": "V33vhvlkqMk79sixQJYU6X",
-  "repo_raw": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main",
+  "repo_raw": "https://raw.githubusercontent.com/castardkr/brand-assets/main",
   "total": 151,
   "assets": [
     {
@@ -12,7 +12,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/brand/upstage_symbol_color.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/brand/upstage_symbol_color.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/brand/upstage_symbol_color.svg",
       "figma_node_id": "7:446"
     },
     {
@@ -23,7 +23,7 @@
       "color": "white",
       "usage": "dark background",
       "file": "assets/brand/upstage_symbol_white.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/brand/upstage_symbol_white.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/brand/upstage_symbol_white.svg",
       "figma_node_id": "7:448"
     },
     {
@@ -34,7 +34,7 @@
       "color": "black",
       "usage": "light background",
       "file": "assets/brand/upstage_symbol_black.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/brand/upstage_symbol_black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/brand/upstage_symbol_black.svg",
       "figma_node_id": "7:447"
     },
     {
@@ -45,7 +45,7 @@
       "color": "black",
       "usage": "light background",
       "file": "assets/brand/upstage_lockup_black.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/brand/upstage_lockup_black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/brand/upstage_lockup_black.svg",
       "figma_node_id": "7:444"
     },
     {
@@ -56,7 +56,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/brand/upstage_lockup_color.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/brand/upstage_lockup_color.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/brand/upstage_lockup_color.svg",
       "figma_node_id": "7:443"
     },
     {
@@ -67,7 +67,7 @@
       "color": "white",
       "usage": "dark background",
       "file": "assets/brand/upstage_lockup_white.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/brand/upstage_lockup_white.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/brand/upstage_lockup_white.svg",
       "figma_node_id": "7:445"
     },
     {
@@ -78,7 +78,7 @@
       "color": "black",
       "usage": "light background",
       "file": "assets/brand/mission_horizontal_black.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/brand/mission_horizontal_black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/brand/mission_horizontal_black.svg",
       "figma_node_id": "20:3376"
     },
     {
@@ -89,7 +89,7 @@
       "color": "purple",
       "usage": "any background",
       "file": "assets/brand/mission_horizontal_purple.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/brand/mission_horizontal_purple.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/brand/mission_horizontal_purple.svg",
       "figma_node_id": "20:3387"
     },
     {
@@ -100,7 +100,7 @@
       "color": "white",
       "usage": "dark background",
       "file": "assets/brand/mission_horizontal_white.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/brand/mission_horizontal_white.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/brand/mission_horizontal_white.svg",
       "figma_node_id": "20:3391"
     },
     {
@@ -111,7 +111,7 @@
       "color": "black",
       "usage": "light background",
       "file": "assets/brand/mission_vertical_black.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/brand/mission_vertical_black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/brand/mission_vertical_black.svg",
       "figma_node_id": "20:3383"
     },
     {
@@ -122,7 +122,7 @@
       "color": "purple",
       "usage": "any background",
       "file": "assets/brand/mission_vertical_purple.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/brand/mission_vertical_purple.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/brand/mission_vertical_purple.svg",
       "figma_node_id": "20:3389"
     },
     {
@@ -133,7 +133,7 @@
       "color": "white",
       "usage": "dark background",
       "file": "assets/brand/mission_vertical_white.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/brand/mission_vertical_white.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/brand/mission_vertical_white.svg",
       "figma_node_id": "20:3393"
     },
     {
@@ -144,7 +144,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/brand/upstage_favicon_g_web.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/brand/upstage_favicon_g_web.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/brand/upstage_favicon_g_web.svg",
       "figma_node_id": "20:276"
     },
     {
@@ -155,7 +155,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/brand/upstage_favicon_document.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/brand/upstage_favicon_document.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/brand/upstage_favicon_document.svg",
       "figma_node_id": "20:287"
     },
     {
@@ -166,7 +166,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/brand/upstage_favicon_console.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/brand/upstage_favicon_console.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/brand/upstage_favicon_console.svg",
       "figma_node_id": "20:300"
     },
     {
@@ -177,7 +177,7 @@
       "color": "purple",
       "usage": "any background",
       "file": "assets/brand/upstage_favicon_purple.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/brand/upstage_favicon_purple.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/brand/upstage_favicon_purple.svg",
       "figma_node_id": "20:4191"
     },
     {
@@ -188,7 +188,7 @@
       "color": "black",
       "usage": "light background",
       "file": "assets/brand/upstage_favicon_black.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/brand/upstage_favicon_black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/brand/upstage_favicon_black.svg",
       "figma_node_id": "20:4193"
     },
     {
@@ -199,7 +199,7 @@
       "color": "black",
       "usage": "light background",
       "file": "assets/brand/console_black.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/brand/console_black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/brand/console_black.svg",
       "figma_node_id": "20:1393"
     },
     {
@@ -210,7 +210,7 @@
       "color": "purple",
       "usage": "any background",
       "file": "assets/brand/console_purple.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/brand/console_purple.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/brand/console_purple.svg",
       "figma_node_id": "20:1401"
     },
     {
@@ -221,7 +221,7 @@
       "color": "white",
       "usage": "dark background",
       "file": "assets/brand/console_white.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/brand/console_white.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/brand/console_white.svg",
       "figma_node_id": "20:1440"
     },
     {
@@ -232,7 +232,7 @@
       "color": "black",
       "usage": "light background",
       "file": "assets/brand/education_black.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/brand/education_black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/brand/education_black.svg",
       "figma_node_id": "20:1396"
     },
     {
@@ -243,7 +243,7 @@
       "color": "purple",
       "usage": "any background",
       "file": "assets/brand/education_purple.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/brand/education_purple.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/brand/education_purple.svg",
       "figma_node_id": "20:1403"
     },
     {
@@ -254,7 +254,7 @@
       "color": "white",
       "usage": "dark background",
       "file": "assets/brand/education_white.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/brand/education_white.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/brand/education_white.svg",
       "figma_node_id": "20:1442"
     },
     {
@@ -265,7 +265,7 @@
       "color": "black",
       "usage": "light background",
       "file": "assets/brand/upflow_black.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/brand/upflow_black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/brand/upflow_black.svg",
       "figma_node_id": "20:1397"
     },
     {
@@ -276,7 +276,7 @@
       "color": "purple",
       "usage": "any background",
       "file": "assets/brand/upflow_purple.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/brand/upflow_purple.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/brand/upflow_purple.svg",
       "figma_node_id": "20:1436"
     },
     {
@@ -287,7 +287,7 @@
       "color": "white",
       "usage": "dark background",
       "file": "assets/brand/upflow_white.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/brand/upflow_white.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/brand/upflow_white.svg",
       "figma_node_id": "20:1443"
     },
     {
@@ -298,7 +298,7 @@
       "color": "black",
       "usage": "light background",
       "file": "assets/brand/ai_stages_black.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/brand/ai_stages_black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/brand/ai_stages_black.svg",
       "figma_node_id": "20:1398"
     },
     {
@@ -309,7 +309,7 @@
       "color": "purple",
       "usage": "any background",
       "file": "assets/brand/ai_stages_purple.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/brand/ai_stages_purple.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/brand/ai_stages_purple.svg",
       "figma_node_id": "20:1437"
     },
     {
@@ -320,7 +320,7 @@
       "color": "white",
       "usage": "dark background",
       "file": "assets/brand/ai_stages_white.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/brand/ai_stages_white.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/brand/ai_stages_white.svg",
       "figma_node_id": "20:1444"
     },
     {
@@ -331,7 +331,7 @@
       "color": "black",
       "usage": "light background",
       "file": "assets/brand/careers_black.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/brand/careers_black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/brand/careers_black.svg",
       "figma_node_id": "20:1399"
     },
     {
@@ -342,7 +342,7 @@
       "color": "purple",
       "usage": "any background",
       "file": "assets/brand/careers_purple.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/brand/careers_purple.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/brand/careers_purple.svg",
       "figma_node_id": "20:1438"
     },
     {
@@ -353,7 +353,7 @@
       "color": "white",
       "usage": "dark background",
       "file": "assets/brand/careers_white.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/brand/careers_white.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/brand/careers_white.svg",
       "figma_node_id": "20:1445"
     },
     {
@@ -364,7 +364,7 @@
       "color": "black",
       "usage": "light background",
       "file": "assets/brand/ai_workspace_black.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/brand/ai_workspace_black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/brand/ai_workspace_black.svg",
       "figma_node_id": "20:1400"
     },
     {
@@ -375,7 +375,7 @@
       "color": "purple",
       "usage": "any background",
       "file": "assets/brand/ai_workspace_purple.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/brand/ai_workspace_purple.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/brand/ai_workspace_purple.svg",
       "figma_node_id": "20:1439"
     },
     {
@@ -386,7 +386,7 @@
       "color": "white",
       "usage": "dark background",
       "file": "assets/brand/ai_workspace_white.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/brand/ai_workspace_white.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/brand/ai_workspace_white.svg",
       "figma_node_id": "20:1446"
     },
     {
@@ -397,7 +397,7 @@
       "color": "black",
       "usage": "light background",
       "file": "assets/brand/studio_black.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/brand/studio_black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/brand/studio_black.svg",
       "figma_node_id": "20:1395"
     },
     {
@@ -408,7 +408,7 @@
       "color": "purple",
       "usage": "any background",
       "file": "assets/brand/studio_purple.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/brand/studio_purple.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/brand/studio_purple.svg",
       "figma_node_id": "20:1402"
     },
     {
@@ -419,7 +419,7 @@
       "color": "white",
       "usage": "dark background",
       "file": "assets/brand/studio_white.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/brand/studio_white.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/brand/studio_white.svg",
       "figma_node_id": "20:1441"
     },
     {
@@ -430,7 +430,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/ai_spcae_logo.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/ai_spcae_logo.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/ai_spcae_logo.svg",
       "figma_node_id": "20:3398"
     },
     {
@@ -441,7 +441,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/ai_spcae-logo-white.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/ai_spcae-logo-white.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/ai_spcae-logo-white.svg",
       "figma_node_id": "20:3401"
     },
     {
@@ -452,7 +452,7 @@
       "color": "black",
       "usage": "light background",
       "file": "assets/product/ai_spcae_logo_black.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/ai_spcae_logo_black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/ai_spcae_logo_black.svg",
       "figma_node_id": "20:3399"
     },
     {
@@ -463,7 +463,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/upstage-ai_spcae_logo.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/upstage-ai_spcae_logo.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/upstage-ai_spcae_logo.svg",
       "figma_node_id": "20:3371"
     },
     {
@@ -474,7 +474,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/upstage-ai_spcae-logo-white.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/upstage-ai_spcae-logo-white.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/upstage-ai_spcae-logo-white.svg",
       "figma_node_id": "20:3396"
     },
     {
@@ -485,7 +485,7 @@
       "color": "black",
       "usage": "light background",
       "file": "assets/product/upstage-ai_spcae_logo_black.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/upstage-ai_spcae_logo_black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/upstage-ai_spcae_logo_black.svg",
       "figma_node_id": "20:3372"
     },
     {
@@ -496,7 +496,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/ai_spcae_logo_on_dark.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/ai_spcae_logo_on_dark.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/ai_spcae_logo_on_dark.svg",
       "figma_node_id": "20:3400"
     },
     {
@@ -507,7 +507,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/upstage-ai_spcae_logo_on_dark.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/upstage-ai_spcae_logo_on_dark.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/upstage-ai_spcae_logo_on_dark.svg",
       "figma_node_id": "20:3395"
     },
     {
@@ -518,7 +518,7 @@
       "color": "black",
       "usage": "light background",
       "file": "assets/product/ai_space-symbol_black.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/ai_space-symbol_black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/ai_space-symbol_black.svg",
       "figma_node_id": "20:2730"
     },
     {
@@ -529,7 +529,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/ai_space-symbol.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/ai_space-symbol.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/ai_space-symbol.svg",
       "figma_node_id": "20:2738"
     },
     {
@@ -540,7 +540,7 @@
       "color": "white",
       "usage": "dark background",
       "file": "assets/product/ai_space-symbol_white.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/ai_space-symbol_white.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/ai_space-symbol_white.svg",
       "figma_node_id": "20:2746"
     },
     {
@@ -551,7 +551,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/upstage-document_parse_logo.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/upstage-document_parse_logo.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/upstage-document_parse_logo.svg",
       "figma_node_id": "20:3412"
     },
     {
@@ -562,7 +562,7 @@
       "color": "white",
       "usage": "dark background",
       "file": "assets/product/upstage-document_parse_logo_white.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/upstage-document_parse_logo_white.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/upstage-document_parse_logo_white.svg",
       "figma_node_id": "20:3418"
     },
     {
@@ -573,7 +573,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/upstage-document_parse_logo-black.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/upstage-document_parse_logo-black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/upstage-document_parse_logo-black.svg",
       "figma_node_id": "20:3414"
     },
     {
@@ -584,7 +584,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/document_parse_logo.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/document_parse_logo.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/document_parse_logo.svg",
       "figma_node_id": "20:3419"
     },
     {
@@ -595,7 +595,7 @@
       "color": "white",
       "usage": "dark background",
       "file": "assets/product/document_parse_logo_white.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/document_parse_logo_white.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/document_parse_logo_white.svg",
       "figma_node_id": "20:3422"
     },
     {
@@ -606,7 +606,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/document_parse_logo-black.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/document_parse_logo-black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/document_parse_logo-black.svg",
       "figma_node_id": "20:3420"
     },
     {
@@ -617,7 +617,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/upstage-document_parse_logo_on_dark.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/upstage-document_parse_logo_on_dark.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/upstage-document_parse_logo_on_dark.svg",
       "figma_node_id": "20:3417"
     },
     {
@@ -628,7 +628,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/document_parse_logo_on_dark.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/document_parse_logo_on_dark.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/document_parse_logo_on_dark.svg",
       "figma_node_id": "20:3421"
     },
     {
@@ -639,7 +639,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/documentparse-symbol.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/documentparse-symbol.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/documentparse-symbol.svg",
       "figma_node_id": "20:3409"
     },
     {
@@ -650,7 +650,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/documentparse-symbol_color.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/documentparse-symbol_color.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/documentparse-symbol_color.svg",
       "figma_node_id": "20:3410"
     },
     {
@@ -661,7 +661,7 @@
       "color": "white",
       "usage": "dark background",
       "file": "assets/product/documentparse-symbol_white.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/documentparse-symbol_white.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/documentparse-symbol_white.svg",
       "figma_node_id": "20:3411"
     },
     {
@@ -672,7 +672,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/upstage-document_classify_logo_color.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/upstage-document_classify_logo_color.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/upstage-document_classify_logo_color.svg",
       "figma_node_id": "20:3426"
     },
     {
@@ -683,7 +683,7 @@
       "color": "black",
       "usage": "light background",
       "file": "assets/product/upstage-document_classify_logo_black.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/upstage-document_classify_logo_black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/upstage-document_classify_logo_black.svg",
       "figma_node_id": "20:3427"
     },
     {
@@ -694,7 +694,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/upstage-document_classify_logo_on_dark.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/upstage-document_classify_logo_on_dark.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/upstage-document_classify_logo_on_dark.svg",
       "figma_node_id": "20:3429"
     },
     {
@@ -705,7 +705,7 @@
       "color": "white",
       "usage": "dark background",
       "file": "assets/product/upstage-document_classify_logo_white.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/upstage-document_classify_logo_white.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/upstage-document_classify_logo_white.svg",
       "figma_node_id": "20:3431"
     },
     {
@@ -716,7 +716,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/document_classify_logo.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/document_classify_logo.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/document_classify_logo.svg",
       "figma_node_id": "20:3432"
     },
     {
@@ -727,7 +727,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/document_classify_logo-black.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/document_classify_logo-black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/document_classify_logo-black.svg",
       "figma_node_id": "20:3433"
     },
     {
@@ -738,7 +738,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/document_classify_logo_on_dark.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/document_classify_logo_on_dark.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/document_classify_logo_on_dark.svg",
       "figma_node_id": "20:3435"
     },
     {
@@ -749,7 +749,7 @@
       "color": "white",
       "usage": "dark background",
       "file": "assets/product/document_classify_logo_white.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/document_classify_logo_white.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/document_classify_logo_white.svg",
       "figma_node_id": "20:3448"
     },
     {
@@ -760,7 +760,7 @@
       "color": "black",
       "usage": "light background",
       "file": "assets/product/documentparse-symbol_black.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/documentparse-symbol_black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/documentparse-symbol_black.svg",
       "figma_node_id": "20:3423"
     },
     {
@@ -771,7 +771,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/documentparse-symbol_color.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/documentparse-symbol_color.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/documentparse-symbol_color.svg",
       "figma_node_id": "20:3424"
     },
     {
@@ -782,7 +782,7 @@
       "color": "white",
       "usage": "dark background",
       "file": "assets/product/documentparse_white.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/documentparse_white.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/documentparse_white.svg",
       "figma_node_id": "20:3425"
     },
     {
@@ -793,7 +793,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/upstage-informatino_extract_logo.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/upstage-informatino_extract_logo.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/upstage-informatino_extract_logo.svg",
       "figma_node_id": "20:3441"
     },
     {
@@ -804,7 +804,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/upstage-informatino_extract_logo-black.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/upstage-informatino_extract_logo-black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/upstage-informatino_extract_logo-black.svg",
       "figma_node_id": "20:3443"
     },
     {
@@ -815,7 +815,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/upstage-informatino_extract_logo_on_dark.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/upstage-informatino_extract_logo_on_dark.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/upstage-informatino_extract_logo_on_dark.svg",
       "figma_node_id": "20:3446"
     },
     {
@@ -826,7 +826,7 @@
       "color": "white",
       "usage": "dark background",
       "file": "assets/product/upstage-informatino_extract_logo_white.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/upstage-informatino_extract_logo_white.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/upstage-informatino_extract_logo_white.svg",
       "figma_node_id": "20:3447"
     },
     {
@@ -837,7 +837,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/informatino_extract_logo_color.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/informatino_extract_logo_color.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/informatino_extract_logo_color.svg",
       "figma_node_id": "20:3450"
     },
     {
@@ -848,7 +848,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/informatino_extract_logo-black.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/informatino_extract_logo-black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/informatino_extract_logo-black.svg",
       "figma_node_id": "20:3451"
     },
     {
@@ -859,7 +859,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/informatino_extract_logo_on_dark.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/informatino_extract_logo_on_dark.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/informatino_extract_logo_on_dark.svg",
       "figma_node_id": "20:3452"
     },
     {
@@ -870,7 +870,7 @@
       "color": "white",
       "usage": "dark background",
       "file": "assets/product/informatino_extract_logo_white.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/informatino_extract_logo_white.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/informatino_extract_logo_white.svg",
       "figma_node_id": "20:3454"
     },
     {
@@ -881,7 +881,7 @@
       "color": "black",
       "usage": "light background",
       "file": "assets/product/informationextract-symbol_black.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/informationextract-symbol_black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/informationextract-symbol_black.svg",
       "figma_node_id": "20:3437"
     },
     {
@@ -892,7 +892,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/informationextract-symbol_color.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/informationextract-symbol_color.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/informationextract-symbol_color.svg",
       "figma_node_id": "20:3438"
     },
     {
@@ -903,7 +903,7 @@
       "color": "white",
       "usage": "dark background",
       "file": "assets/product/informationextract-symbol_white.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/informationextract-symbol_white.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/informationextract-symbol_white.svg",
       "figma_node_id": "20:3440"
     },
     {
@@ -914,7 +914,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/solarllm-symbol_color.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/solarllm-symbol_color.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solarllm-symbol_color.svg",
       "figma_node_id": "20:4181"
     },
     {
@@ -925,7 +925,7 @@
       "color": "black",
       "usage": "light background",
       "file": "assets/product/solarllm-symbol_black.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/solarllm-symbol_black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solarllm-symbol_black.svg",
       "figma_node_id": "20:4184"
     },
     {
@@ -936,7 +936,7 @@
       "color": "white",
       "usage": "dark background",
       "file": "assets/product/solarllm-symbol_white.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/solarllm-symbol_white.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solarllm-symbol_white.svg",
       "figma_node_id": "20:4182"
     },
     {
@@ -947,7 +947,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/upstage-solar_llm-logo-on_dark.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/upstage-solar_llm-logo-on_dark.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/upstage-solar_llm-logo-on_dark.svg",
       "figma_node_id": "20:4188"
     },
     {
@@ -958,7 +958,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/upstage-solar_llm-logo_color.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/upstage-solar_llm-logo_color.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/upstage-solar_llm-logo_color.svg",
       "figma_node_id": "20:4185"
     },
     {
@@ -969,7 +969,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/upstage-solar_llm-logo-black.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/upstage-solar_llm-logo-black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/upstage-solar_llm-logo-black.svg",
       "figma_node_id": "20:4186"
     },
     {
@@ -980,7 +980,7 @@
       "color": "white",
       "usage": "dark background",
       "file": "assets/product/upstage-solar_llm_logo_white.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/upstage-solar_llm_logo_white.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/upstage-solar_llm_logo_white.svg",
       "figma_node_id": "20:4190"
     },
     {
@@ -991,7 +991,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/solar_llm_color.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/solar_llm_color.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_llm_color.svg",
       "figma_node_id": "20:3584"
     },
     {
@@ -1002,7 +1002,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/solar_pro_color.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/solar_pro_color.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_pro_color.svg",
       "figma_node_id": "20:3601"
     },
     {
@@ -1013,7 +1013,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/solar_llm_on_dark.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/solar_llm_on_dark.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_llm_on_dark.svg",
       "figma_node_id": "20:3618"
     },
     {
@@ -1024,7 +1024,7 @@
       "color": "white",
       "usage": "dark background",
       "file": "assets/product/solar_llm_white.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/solar_llm_white.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_llm_white.svg",
       "figma_node_id": "20:3635"
     },
     {
@@ -1035,7 +1035,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/solar_pro_on_dark.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/solar_pro_on_dark.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_pro_on_dark.svg",
       "figma_node_id": "20:3652"
     },
     {
@@ -1046,7 +1046,7 @@
       "color": "black",
       "usage": "light background",
       "file": "assets/product/solar_llm_black.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/solar_llm_black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_llm_black.svg",
       "figma_node_id": "20:3669"
     },
     {
@@ -1057,7 +1057,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/solar_mini_color.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/solar_mini_color.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_mini_color.svg",
       "figma_node_id": "20:3687"
     },
     {
@@ -1068,7 +1068,7 @@
       "color": "white",
       "usage": "dark background",
       "file": "assets/product/solar_pro_white.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/solar_pro_white.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_pro_white.svg",
       "figma_node_id": "20:3704"
     },
     {
@@ -1079,7 +1079,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/solar_pro2_color.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/solar_pro2_color.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_pro2_color.svg",
       "figma_node_id": "20:3721"
     },
     {
@@ -1090,7 +1090,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/solar_pro3_color.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/solar_pro3_color.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_pro3_color.svg",
       "figma_node_id": "20:3739"
     },
     {
@@ -1101,7 +1101,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/solar_open_color.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/solar_open_color.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_open_color.svg",
       "figma_node_id": "20:3757"
     },
     {
@@ -1112,7 +1112,7 @@
       "color": "black",
       "usage": "light background",
       "file": "assets/product/solar_pro_black.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/solar_pro_black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_pro_black.svg",
       "figma_node_id": "20:3795"
     },
     {
@@ -1123,7 +1123,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/solar_pro2_on_dark.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/solar_pro2_on_dark.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_pro2_on_dark.svg",
       "figma_node_id": "20:3813"
     },
     {
@@ -1134,7 +1134,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/solar_pro3_on_dark.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/solar_pro3_on_dark.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_pro3_on_dark.svg",
       "figma_node_id": "20:3831"
     },
     {
@@ -1145,7 +1145,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/solar_open_on_dark.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/solar_open_on_dark.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_open_on_dark.svg",
       "figma_node_id": "20:3849"
     },
     {
@@ -1156,7 +1156,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/solar_mini_on_dark.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/solar_mini_on_dark.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_mini_on_dark.svg",
       "figma_node_id": "20:3866"
     },
     {
@@ -1167,7 +1167,7 @@
       "color": "white",
       "usage": "dark background",
       "file": "assets/product/solar_pro2_white.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/solar_pro2_white.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_pro2_white.svg",
       "figma_node_id": "20:3904"
     },
     {
@@ -1178,7 +1178,7 @@
       "color": "white",
       "usage": "dark background",
       "file": "assets/product/solar_pro3_white.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/solar_pro3_white.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_pro3_white.svg",
       "figma_node_id": "20:3922"
     },
     {
@@ -1189,7 +1189,7 @@
       "color": "white",
       "usage": "dark background",
       "file": "assets/product/solar_open_white.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/solar_open_white.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_open_white.svg",
       "figma_node_id": "20:3940"
     },
     {
@@ -1200,7 +1200,7 @@
       "color": "white",
       "usage": "dark background",
       "file": "assets/product/solar_mini_white.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/solar_mini_white.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_mini_white.svg",
       "figma_node_id": "20:3957"
     },
     {
@@ -1211,7 +1211,7 @@
       "color": "black",
       "usage": "light background",
       "file": "assets/product/solar_pro2_black.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/solar_pro2_black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_pro2_black.svg",
       "figma_node_id": "20:3974"
     },
     {
@@ -1222,7 +1222,7 @@
       "color": "black",
       "usage": "light background",
       "file": "assets/product/solar_pro3_black.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/solar_pro3_black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_pro3_black.svg",
       "figma_node_id": "20:3993"
     },
     {
@@ -1233,7 +1233,7 @@
       "color": "black",
       "usage": "light background",
       "file": "assets/product/solar_open_black.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/solar_open_black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_open_black.svg",
       "figma_node_id": "20:4012"
     },
     {
@@ -1244,7 +1244,7 @@
       "color": "black",
       "usage": "light background",
       "file": "assets/product/solar_mini_black.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/solar_mini_black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_mini_black.svg",
       "figma_node_id": "20:4051"
     },
     {
@@ -1255,7 +1255,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/solar_color.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/solar_color.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_color.svg",
       "figma_node_id": "20:4091"
     },
     {
@@ -1266,7 +1266,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/solar_on_dark.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/solar_on_dark.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_on_dark.svg",
       "figma_node_id": "20:4107"
     },
     {
@@ -1277,7 +1277,7 @@
       "color": "white",
       "usage": "dark background",
       "file": "assets/product/solar_white.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/solar_white.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_white.svg",
       "figma_node_id": "20:4123"
     },
     {
@@ -1288,7 +1288,7 @@
       "color": "black",
       "usage": "light background",
       "file": "assets/product/solar_black.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/solar_black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_black.svg",
       "figma_node_id": "20:4139"
     },
     {
@@ -1299,7 +1299,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/ai_space-symbol_round.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/ai_space-symbol_round.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/ai_space-symbol_round.svg",
       "figma_node_id": "20:4195"
     },
     {
@@ -1310,7 +1310,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/documentparse-symbol_round.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/documentparse-symbol_round.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/documentparse-symbol_round.svg",
       "figma_node_id": "20:4203"
     },
     {
@@ -1321,7 +1321,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/informationextract-symbol_round.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/informationextract-symbol_round.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/informationextract-symbol_round.svg",
       "figma_node_id": "20:4217"
     },
     {
@@ -1332,7 +1332,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/solarllm-symbol_round.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/solarllm-symbol_round.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solarllm-symbol_round.svg",
       "figma_node_id": "20:4225"
     },
     {
@@ -1343,7 +1343,7 @@
       "color": "black",
       "usage": "light background",
       "file": "assets/product/ai_space-symbol_black.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/ai_space-symbol_black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/ai_space-symbol_black.svg",
       "figma_node_id": "20:4227"
     },
     {
@@ -1354,7 +1354,7 @@
       "color": "black",
       "usage": "light background",
       "file": "assets/product/documentparse-symbol_black.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/documentparse-symbol_black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/documentparse-symbol_black.svg",
       "figma_node_id": "20:4235"
     },
     {
@@ -1365,7 +1365,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/ai_space-symbol_frame.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/ai_space-symbol_frame.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/ai_space-symbol_frame.svg",
       "figma_node_id": "20:4249"
     },
     {
@@ -1376,7 +1376,7 @@
       "color": "black",
       "usage": "light background",
       "file": "assets/product/informationextract-symbol_black.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/informationextract-symbol_black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/informationextract-symbol_black.svg",
       "figma_node_id": "20:4257"
     },
     {
@@ -1387,7 +1387,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/informationextract-symbol_frame.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/informationextract-symbol_frame.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/informationextract-symbol_frame.svg",
       "figma_node_id": "20:4265"
     },
     {
@@ -1398,7 +1398,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/documentparse-symbol_frame.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/documentparse-symbol_frame.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/documentparse-symbol_frame.svg",
       "figma_node_id": "20:4273"
     },
     {
@@ -1409,7 +1409,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/documentclassify-symbol_frame.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/documentclassify-symbol_frame.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/documentclassify-symbol_frame.svg",
       "figma_node_id": "20:4287"
     },
     {
@@ -1420,7 +1420,7 @@
       "color": "black",
       "usage": "light background",
       "file": "assets/product/documentclassify-symbol_black.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/documentclassify-symbol_black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/documentclassify-symbol_black.svg",
       "figma_node_id": "20:4300"
     },
     {
@@ -1431,7 +1431,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/documentclassify-symbol_round.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/documentclassify-symbol_round.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/documentclassify-symbol_round.svg",
       "figma_node_id": "20:4313"
     },
     {
@@ -1442,7 +1442,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/documentclassify-symbol_fit.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/documentclassify-symbol_fit.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/documentclassify-symbol_fit.svg",
       "figma_node_id": "20:4326"
     },
     {
@@ -1453,7 +1453,7 @@
       "color": "black",
       "usage": "light background",
       "file": "assets/product/solarllm-symbol_black.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/solarllm-symbol_black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solarllm-symbol_black.svg",
       "figma_node_id": "20:4337"
     },
     {
@@ -1464,7 +1464,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/solarllm-symbol_frame.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/solarllm-symbol_frame.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solarllm-symbol_frame.svg",
       "figma_node_id": "20:4339"
     },
     {
@@ -1475,7 +1475,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/documentparse-symbol_fit.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/documentparse-symbol_fit.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/documentparse-symbol_fit.svg",
       "figma_node_id": "20:4341"
     },
     {
@@ -1486,7 +1486,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/documentparse-symbol_fit.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/documentparse-symbol_fit.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/documentparse-symbol_fit.svg",
       "figma_node_id": "20:4349"
     },
     {
@@ -1497,7 +1497,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/informationextract-symbol_fit.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/informationextract-symbol_fit.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/informationextract-symbol_fit.svg",
       "figma_node_id": "20:4361"
     },
     {
@@ -1508,7 +1508,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/solarllm-symbol_fit.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/solarllm-symbol_fit.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solarllm-symbol_fit.svg",
       "figma_node_id": "20:4370"
     },
     {
@@ -1519,7 +1519,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/kv_solaropen.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/kv_solaropen.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/kv_solaropen.svg",
       "figma_node_id": "20:4407"
     },
     {
@@ -1530,7 +1530,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/product/kv_solar_pro3.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/product/kv_solar_pro3.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/kv_solar_pro3.svg",
       "figma_node_id": "20:4438"
     },
     {
@@ -1541,7 +1541,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/icons/s_invoice.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/icons/s_invoice.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/icons/s_invoice.svg",
       "figma_node_id": "30:160"
     },
     {
@@ -1552,7 +1552,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/icons/contract.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/icons/contract.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/icons/contract.svg",
       "figma_node_id": "29:130"
     },
     {
@@ -1563,7 +1563,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/icons/doc_1.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/icons/doc_1.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/icons/doc_1.svg",
       "figma_node_id": "29:180"
     },
     {
@@ -1574,7 +1574,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/icons/quote.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/icons/quote.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/icons/quote.svg",
       "figma_node_id": "29:258"
     },
     {
@@ -1585,7 +1585,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/icons/paper.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/icons/paper.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/icons/paper.svg",
       "figma_node_id": "29:364"
     },
     {
@@ -1596,7 +1596,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/icons/s_contract.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/icons/s_contract.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/icons/s_contract.svg",
       "figma_node_id": "30:127"
     },
     {
@@ -1607,7 +1607,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/icons/doc_2.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/icons/doc_2.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/icons/doc_2.svg",
       "figma_node_id": "29:445"
     },
     {
@@ -1618,7 +1618,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/feature_asset/solar_pro3_kv_en.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/feature_asset/solar_pro3_kv_en.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/feature_asset/solar_pro3_kv_en.svg",
       "figma_node_id": "33:204"
     },
     {
@@ -1629,7 +1629,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/feature_asset/solar_pro3_kv_kr.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/feature_asset/solar_pro3_kv_kr.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/feature_asset/solar_pro3_kv_kr.svg",
       "figma_node_id": "33:252"
     },
     {
@@ -1640,7 +1640,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/feature_asset/studio_pr.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/feature_asset/studio_pr.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/feature_asset/studio_pr.svg",
       "figma_node_id": "33:2240"
     },
     {
@@ -1651,7 +1651,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/feature_asset/26-0507_acquiring_daum.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/feature_asset/26-0507_acquiring_daum.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/feature_asset/26-0507_acquiring_daum.svg",
       "figma_node_id": "32:166"
     },
     {
@@ -1662,7 +1662,7 @@
       "color": "color",
       "usage": "any background",
       "file": "assets/feature_asset/26-0507_the_national_growth_fund.svg",
-      "url": "https://raw.githubusercontent.com/upstage-comm/brand-assets/main/assets/feature_asset/26-0507_the_national_growth_fund.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/feature_asset/26-0507_the_national_growth_fund.svg",
       "figma_node_id": "32:380"
     }
   ]
