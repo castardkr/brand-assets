@@ -1,8 +1,8 @@
 {
-  "version": "2026-05-11",
+  "version": "2026-05-18",
   "figma_file": "V33vhvlkqMk79sixQJYU6X",
   "repo_raw": "https://raw.githubusercontent.com/castardkr/brand-assets/main",
-  "total": 151,
+  "total": 149,
   "assets": [
     {
       "id": "brand/upstage_symbol_color",
@@ -1642,28 +1642,6 @@
       "file": "assets/feature_asset/studio_pr.svg",
       "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/feature_asset/studio_pr.svg",
       "figma_node_id": "33:2240"
-    },
-    {
-      "id": "feature_asset/26-0507_acquiring_daum",
-      "name": "26-0507_Acquiring Daum_다음인수",
-      "page": "Feature Asset / PR",
-      "type": "acquiring daum",
-      "color": "color",
-      "usage": "any background",
-      "file": "assets/feature_asset/26-0507_acquiring_daum.svg",
-      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/feature_asset/26-0507_acquiring_daum.svg",
-      "figma_node_id": "32:166"
-    },
-    {
-      "id": "feature_asset/26-0507_the_national_growth_fund",
-      "name": "26-0507_The National Growth Fund_국민성장펀드",
-      "page": "Feature Asset / PR",
-      "type": "the national growth fund",
-      "color": "color",
-      "usage": "any background",
-      "file": "assets/feature_asset/26-0507_the_national_growth_fund.svg",
-      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/feature_asset/26-0507_the_national_growth_fund.svg",
-      "figma_node_id": "32:380"
     }
   ]
 }
