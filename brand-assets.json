@@ -1,5 +1,5 @@
 {
-  "version": "2026-08-24",
+  "version": "2026-08-31",
   "figma_file": "V33vhvlkqMk79sixQJYU6X",
   "repo_raw": "https://raw.githubusercontent.com/castardkr/brand-assets/main",
   "total": 149,
@@ -1545,6 +1545,17 @@
       "figma_node_id": "30:160"
     },
     {
+      "id": "icons/s_contract",
+      "name": "s_contract",
+      "page": "Icon / doc",
+      "type": "contract",
+      "color": "color",
+      "usage": "any background",
+      "file": "assets/icons/s_contract.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/icons/s_contract.svg",
+      "figma_node_id": "30:127"
+    },
+    {
       "id": "icons/contract",
       "name": "contract",
       "page": "Icon / doc",
@@ -1587,17 +1598,6 @@
       "file": "assets/icons/paper.svg",
       "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/icons/paper.svg",
       "figma_node_id": "29:364"
-    },
-    {
-      "id": "icons/s_contract",
-      "name": "s_contract",
-      "page": "Icon / doc",
-      "type": "contract",
-      "color": "color",
-      "usage": "any background",
-      "file": "assets/icons/s_contract.svg",
-      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/icons/s_contract.svg",
-      "figma_node_id": "30:127"
     },
     {
       "id": "icons/doc_2",
