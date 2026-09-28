@@ -1,8 +1,8 @@
 {
-  "version": "2026-09-21",
+  "version": "2026-09-28",
   "figma_file": "V33vhvlkqMk79sixQJYU6X",
   "repo_raw": "https://raw.githubusercontent.com/castardkr/brand-assets/main",
-  "total": 149,
+  "total": 161,
   "assets": [
     {
       "id": "brand/upstage_symbol_color",
@@ -1290,6 +1290,138 @@
       "file": "assets/product/solar_black.svg",
       "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_black.svg",
       "figma_node_id": "20:4139"
+    },
+    {
+      "id": "product/solar_mini_4_logo",
+      "name": "Solar Mini 4_Logo",
+      "page": "Product / Logo",
+      "type": "logo",
+      "color": "color",
+      "usage": "any background",
+      "file": "assets/product/solar_mini_4_logo.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_mini_4_logo.svg",
+      "figma_node_id": "122:151"
+    },
+    {
+      "id": "product/solar_mini4_on_dark",
+      "name": "Solar Mini4_on_dark",
+      "page": "Product / Logo",
+      "type": "on",
+      "color": "color",
+      "usage": "any background",
+      "file": "assets/product/solar_mini4_on_dark.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_mini4_on_dark.svg",
+      "figma_node_id": "122:169"
+    },
+    {
+      "id": "product/solar_mini4_white",
+      "name": "Solar Mini4_white",
+      "page": "Product / Logo",
+      "type": "white",
+      "color": "white",
+      "usage": "dark background",
+      "file": "assets/product/solar_mini4_white.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_mini4_white.svg",
+      "figma_node_id": "122:187"
+    },
+    {
+      "id": "product/solar_mini4_black",
+      "name": "Solar Mini4_Black",
+      "page": "Product / Logo",
+      "type": "black",
+      "color": "black",
+      "usage": "light background",
+      "file": "assets/product/solar_mini4_black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_mini4_black.svg",
+      "figma_node_id": "122:205"
+    },
+    {
+      "id": "product/solar_pro4_color",
+      "name": "Solar Pro4_Color",
+      "page": "Product / Logo",
+      "type": "color",
+      "color": "color",
+      "usage": "any background",
+      "file": "assets/product/solar_pro4_color.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_pro4_color.svg",
+      "figma_node_id": "122:225"
+    },
+    {
+      "id": "product/solar_pro4_on_dark",
+      "name": "Solar Pro4_on_dark",
+      "page": "Product / Logo",
+      "type": "on",
+      "color": "color",
+      "usage": "any background",
+      "file": "assets/product/solar_pro4_on_dark.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_pro4_on_dark.svg",
+      "figma_node_id": "122:243"
+    },
+    {
+      "id": "product/solar_pro2_white",
+      "name": "Solar Pro2_white",
+      "page": "Product / Logo",
+      "type": "white",
+      "color": "white",
+      "usage": "dark background",
+      "file": "assets/product/solar_pro2_white.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_pro2_white.svg",
+      "figma_node_id": "122:261"
+    },
+    {
+      "id": "product/solar_pro4_black",
+      "name": "Solar Pro4_Black",
+      "page": "Product / Logo",
+      "type": "black",
+      "color": "black",
+      "usage": "light background",
+      "file": "assets/product/solar_pro4_black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_pro4_black.svg",
+      "figma_node_id": "122:279"
+    },
+    {
+      "id": "product/solar_open2_color",
+      "name": "Solar open2_Color",
+      "page": "Product / Logo",
+      "type": "color",
+      "color": "color",
+      "usage": "any background",
+      "file": "assets/product/solar_open2_color.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_open2_color.svg",
+      "figma_node_id": "122:299"
+    },
+    {
+      "id": "product/solar_open2_on_dark",
+      "name": "Solar open2_on_dark",
+      "page": "Product / Logo",
+      "type": "on",
+      "color": "color",
+      "usage": "any background",
+      "file": "assets/product/solar_open2_on_dark.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_open2_on_dark.svg",
+      "figma_node_id": "122:317"
+    },
+    {
+      "id": "product/solar_open2_white",
+      "name": "Solar open2_white",
+      "page": "Product / Logo",
+      "type": "white",
+      "color": "white",
+      "usage": "dark background",
+      "file": "assets/product/solar_open2_white.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_open2_white.svg",
+      "figma_node_id": "122:335"
+    },
+    {
+      "id": "product/solar_open2_black",
+      "name": "Solar open2_Black",
+      "page": "Product / Logo",
+      "type": "black",
+      "color": "black",
+      "usage": "light background",
+      "file": "assets/product/solar_open2_black.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/product/solar_open2_black.svg",
+      "figma_node_id": "122:353"
     },
     {
       "id": "product/ai_space-symbol_round",
