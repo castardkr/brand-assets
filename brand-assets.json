@@ -1,8 +1,8 @@
 {
-  "version": "2026-10-05",
+  "version": "2026-10-12",
   "figma_file": "V33vhvlkqMk79sixQJYU6X",
   "repo_raw": "https://raw.githubusercontent.com/castardkr/brand-assets/main",
-  "total": 161,
+  "total": 164,
   "assets": [
     {
       "id": "brand/upstage_symbol_color",
@@ -1741,6 +1741,39 @@
       "file": "assets/icons/doc_2.svg",
       "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/icons/doc_2.svg",
       "figma_node_id": "29:445"
+    },
+    {
+      "id": "icons/s",
+      "name": "s_신청서",
+      "page": "Icon / doc",
+      "type": "신청서",
+      "color": "color",
+      "usage": "any background",
+      "file": "assets/icons/s.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/icons/s.svg",
+      "figma_node_id": "137:131"
+    },
+    {
+      "id": "icons/s",
+      "name": "s_영수중",
+      "page": "Icon / doc",
+      "type": "영수중",
+      "color": "color",
+      "usage": "any background",
+      "file": "assets/icons/s.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/icons/s.svg",
+      "figma_node_id": "137:153"
+    },
+    {
+      "id": "icons/s",
+      "name": "s_신분증",
+      "page": "Icon / doc",
+      "type": "신분증",
+      "color": "color",
+      "usage": "any background",
+      "file": "assets/icons/s.svg",
+      "url": "https://raw.githubusercontent.com/castardkr/brand-assets/main/assets/icons/s.svg",
+      "figma_node_id": "137:223"
     },
     {
       "id": "feature_asset/solar_pro3_kv_en",
