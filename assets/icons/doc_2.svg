@@ -5,7 +5,7 @@
 <rect x="58" y="153" width="382" height="15" fill="#E9E8F0"/>
 <rect x="58" y="247" width="382" height="29" fill="#E9E8F0"/>
 <path d="M58 51H440V653H58V51Z" stroke="#979CAE"/>
-<path d="M84 563.5L415 563.5" stroke="#979CAE"/>
+<path d="M84 563.5H415" stroke="#979CAE"/>
 <rect x="69" y="64" width="159.652" height="6.52586" fill="#D1D1DB"/>
 <rect x="69" y="78.502" width="139" height="6" fill="#D1D1DB"/>
 <rect x="130" y="300" width="85" height="4" fill="#D1D1DB"/>
@@ -87,9 +87,9 @@
 <rect x="74" y="140" width="66" height="4" fill="#D1D1DB"/>
 <rect x="99" y="584" width="116" height="4" fill="#D1D1DB"/>
 <rect x="99" y="432" width="16" height="4" fill="#D1D1DB"/>
-<line x1="249.5" y1="103" x2="249.5" y2="168" stroke="#979CAE"/>
-<line x1="59" y1="118.5" x2="440" y2="118.5" stroke="#979CAE"/>
-<line x1="59" y1="168.5" x2="440" y2="168.5" stroke="#979CAE"/>
-<line x1="59" y1="102.5" x2="440" y2="102.5" stroke="#979CAE"/>
-<line x1="59" y1="152.5" x2="440" y2="152.5" stroke="#979CAE"/>
+<path d="M249.5 103L249.5 168" stroke="#979CAE"/>
+<path d="M59 118.5H440" stroke="#979CAE"/>
+<path d="M59 168.5H440" stroke="#979CAE"/>
+<path d="M59 102.5H440" stroke="#979CAE"/>
+<path d="M59 152.5H440" stroke="#979CAE"/>
 </svg>
