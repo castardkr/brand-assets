@@ -87,9 +87,9 @@
 <rect x="74" y="140" width="66" height="4" fill="#D1D1DB"/>
 <rect x="99" y="584" width="116" height="4" fill="#D1D1DB"/>
 <rect x="99" y="432" width="16" height="4" fill="#D1D1DB"/>
-<path d="M249.5 103L249.5 168" stroke="#979CAE"/>
-<path d="M59 118.5H440" stroke="#979CAE"/>
-<path d="M59 168.5H440" stroke="#979CAE"/>
-<path d="M59 102.5H440" stroke="#979CAE"/>
-<path d="M59 152.5H440" stroke="#979CAE"/>
+<line x1="249.5" y1="103" x2="249.5" y2="168" stroke="#979CAE"/>
+<line x1="59" y1="118.5" x2="440" y2="118.5" stroke="#979CAE"/>
+<line x1="59" y1="168.5" x2="440" y2="168.5" stroke="#979CAE"/>
+<line x1="59" y1="102.5" x2="440" y2="102.5" stroke="#979CAE"/>
+<line x1="59" y1="152.5" x2="440" y2="152.5" stroke="#979CAE"/>
 </svg>
